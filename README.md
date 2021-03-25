@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardik Sachan.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Nextjs and typescript.
+- 🌱 I’m currently learning docker.
 - 📫 To contact me [click here](https://hardiksachan.netlify.app/)
 
 <!---
