@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardik Sachan.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning NestJS.
+- 🌱 I’m currently learning Golang.
 - 📫 To contact me [click here](https://hardiksachan.netlify.app/)
 
 <!---
